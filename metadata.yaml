@@ -1,4 +1,8 @@
 _repo: Sieben-Jahre-in-Sud-Afrika-Zweiter-Band-Erlebnisse-Forschungen-und-Jagden-auf-meinen-Reisen-v__49132
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49132-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Holub, Emil
@@ -10,6 +14,8 @@ creator:
     - http://de.wikipedia.org/wiki/Emil_Holub
     - http://en.wikipedia.org/wiki/Emil_Holub
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49132#Sieben-Jahre-in-Sud-Afrika-Zweiter-Band-Erlebnisse-Forschungen-und-Jagden-auf-meinen-Reisen-v_
 gutenberg_issued: '2015-06-04'
 gutenberg_type: Text
 identifiers:
